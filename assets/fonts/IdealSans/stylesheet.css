@@ -1,0 +1,192 @@
+@font-face {
+    font-family: 'Ideal Sans';
+    src: url('IdealSans-Medium.eot');
+    src: url('IdealSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-Medium.woff2') format('woff2'),
+        url('IdealSans-Medium.woff') format('woff'),
+        url('IdealSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ideal Sans Extra';
+    src: url('IdealSans-ExtraLight.eot');
+    src: url('IdealSans-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-ExtraLight.woff2') format('woff2'),
+        url('IdealSans-ExtraLight.woff') format('woff'),
+        url('IdealSans-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ideal Sans';
+    src: url('IdealSans-LightItalic.eot');
+    src: url('IdealSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-LightItalic.woff2') format('woff2'),
+        url('IdealSans-LightItalic.woff') format('woff'),
+        url('IdealSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ideal Sans';
+    src: url('IdealSans-Thin.eot');
+    src: url('IdealSans-Thin.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-Thin.woff2') format('woff2'),
+        url('IdealSans-Thin.woff') format('woff'),
+        url('IdealSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ideal Sans Extra';
+    src: url('IdealSans-ExtraLightItalic.eot');
+    src: url('IdealSans-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-ExtraLightItalic.woff2') format('woff2'),
+        url('IdealSans-ExtraLightItalic.woff') format('woff'),
+        url('IdealSans-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ideal Sans';
+    src: url('IdealSans-MediumItalic.eot');
+    src: url('IdealSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-MediumItalic.woff2') format('woff2'),
+        url('IdealSans-MediumItalic.woff') format('woff'),
+        url('IdealSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ideal Sans';
+    src: url('IdealSans-Semibold.eot');
+    src: url('IdealSans-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-Semibold.woff2') format('woff2'),
+        url('IdealSans-Semibold.woff') format('woff'),
+        url('IdealSans-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ideal Sans';
+    src: url('IdealSans-SemiboldItalic.eot');
+    src: url('IdealSans-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-SemiboldItalic.woff2') format('woff2'),
+        url('IdealSans-SemiboldItalic.woff') format('woff'),
+        url('IdealSans-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ideal Sans';
+    src: url('IdealSans-ThinItalic.eot');
+    src: url('IdealSans-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-ThinItalic.woff2') format('woff2'),
+        url('IdealSans-ThinItalic.woff') format('woff'),
+        url('IdealSans-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ideal Sans';
+    src: url('IdealSans-Black.eot');
+    src: url('IdealSans-Black.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-Black.woff2') format('woff2'),
+        url('IdealSans-Black.woff') format('woff'),
+        url('IdealSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ideal Sans';
+    src: url('IdealSans-BlackItalic.eot');
+    src: url('IdealSans-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-BlackItalic.woff2') format('woff2'),
+        url('IdealSans-BlackItalic.woff') format('woff'),
+        url('IdealSans-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ideal Sans';
+    src: url('IdealSans-Bold.eot');
+    src: url('IdealSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-Bold.woff2') format('woff2'),
+        url('IdealSans-Bold.woff') format('woff'),
+        url('IdealSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ideal Sans';
+    src: url('IdealSans-Light.eot');
+    src: url('IdealSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-Light.woff2') format('woff2'),
+        url('IdealSans-Light.woff') format('woff'),
+        url('IdealSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ideal Sans Book';
+    src: url('IdealSans-Book.eot');
+    src: url('IdealSans-Book.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-Book.woff2') format('woff2'),
+        url('IdealSans-Book.woff') format('woff'),
+        url('IdealSans-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ideal Sans';
+    src: url('IdealSans-BoldItalic.eot');
+    src: url('IdealSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-BoldItalic.woff2') format('woff2'),
+        url('IdealSans-BoldItalic.woff') format('woff'),
+        url('IdealSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ideal Sans Book';
+    src: url('IdealSans-BookItalic.eot');
+    src: url('IdealSans-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('IdealSans-BookItalic.woff2') format('woff2'),
+        url('IdealSans-BookItalic.woff') format('woff'),
+        url('IdealSans-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
